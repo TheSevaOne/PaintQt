@@ -1,13 +1,3 @@
-#include <Canvas.h>
-#include "Canvasresize.h"
-#include <QtWidgets/QApplication>
-#include <QScrollArea>
-#include <QWidget>
-#include <QMainWindow>
-
-
-
-
 #include "Connectors.h"
 #include "Canvas.h"
 #include "Canvasresize.h"
